@@ -6,16 +6,20 @@ Bu bölümde patika.dev "Front End Web Developmet" patikasının CSS dersleri ka
 
 <p>Bu ödevde temel CSS etiketlerini kullanarak; görsel açıdan güzel gözüken bir web sayfası hazırlamaya çalıştım. (Müzik aletlerine ilgi duyan ve müziğin büyüsüne kapılmayı sevenler bu web sayfası sizin için! Not: Projede Css+ Html etiketleri kullanılmıştır.) </p>
 
-<img src="https://github.com/StarLordBerke4/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20AnaSayfa.png" alt="CSS Ödevi1 AnaSayfa" />
+<img src="https://github.com/StarLordBerke/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20AnaSayfa.png" alt="CSS Ödevi1 AnaSayfa" />
 
 <br>
 
-<img src="https://github.com/StarLordBerke4/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20%C3%9Cr%C3%BCnlerimiz.png" alt="CSS Ödevi1 Ürünlerimiz" />
+<img src="https://github.com/StarLordBerke/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20%C3%9Cr%C3%BCnlerimiz.png" alt="CSS Ödevi1 Ürünlerimiz" />
 
 <br>
 
-<img src="https://github.com/StarLordBerke4/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20Hakk%C4%B1m%C4%B1da.png" alt="CSS Ödevi1 Hakkımızda" />
+<img src="https://github.com/StarLordBerke/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20Hakk%C4%B1m%C4%B1da.png" alt="CSS Ödevi1 Hakkımızda" />
 
 <br>
 
-<img src="https://github.com/StarLordBerke4/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20%C4%B0leti%C5%9Fim.png" alt="CSS Ödevi1 İletişim" />
+<img src="https://github.com/StarLordBerke/Frontend-Web-Development-Patika/blob/main/CSS/CSS%20%C3%96devleri/CSS%20%20%C3%96dev%201/CSS%20%C3%96devi%201%20%C4%B0leti%C5%9Fim.png" alt="CSS Ödevi1 İletişim" />
+
+---
+
+*Geliştirici: Berke Mert Öztürk*
